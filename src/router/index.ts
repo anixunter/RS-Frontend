@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import authChildren from './authChildren';
 
 const router = createRouter({
-  history: createWebHistory(window.APP_CONFIG.API_URL),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
