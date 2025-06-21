@@ -1,0 +1,9 @@
+{
+    "API_URL": "http://localhost:8000/api/",
+    "APP_ENVIRONMENT": "DEVELOPMENT",
+
+    "CLIENT_NAME": "Portal Tech",
+    "CLIENT_LOGO": "/img/portaltech.ico",
+    "CLIENT_PAGE_TITLE": "Review Scrapper",
+    "CLIENT_PAGE_TITLE_LOGO": "/img/portaltech.ico"
+}
